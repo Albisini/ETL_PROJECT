@@ -1,0 +1,243 @@
+[
+  {
+    "codice": "B79824671F",
+    "categoria": "Sicurezza",
+    "titolo": "DL Accordo Quadro di durata biennale con unico operatore avente ad oggetto gli interventi di messa in sicurezza e di manutenzione delle alberature ed aree a verde di proprietà e/o in uso alla Regione Lazio e lungo le fasce frangivento 3 Lotti",
+    "link": "https://centraleacquisti.regione.lazio.it/bandi-e-strumenti-di-acquisto/bandi-di-gara-in-scadenza/dettaglio-bando?id_doc=4928063&tipo_doc=BANDO_GARA_PORTALE",
+    "stato": "Aperto",
+    "tipo_utente": "Impresa",
+    "data_apertura": "",
+    "data_chiusura": "16/07/2025 12:00",
+    "allegati": [],    "scheda_info": {
+      "BANDO": "(PI149357-25)",
+      "Descrizione breve": "Direzione dei Lavori dell'Accordo Quadro di durata biennale con unico operatore avente ad oggetto gli interventi di messa in sicurezza e di manutenzione delle alberature ed aree a verde di proprietà e/o in uso alla Regione Lazio e lungo le fasce frangivento presenti nel territorio di Latina e Provincia, monitoraggio e pronto intervento – 3 Lotti Funzionali",
+      "Tipo di Procedura": "Negoziata",
+      "Ente Appaltante": "Giunta Regionale",
+      "Importo Appalto": "139.666,77 € (Iva Esclusa)",
+      "Criterio Aggiudicazione": "Prezzo più basso",
+      "Tipo Appalto": "Servizi",
+      "Termine Richiesta Quesiti": "11/07/2025 12:00[Ora Italiana]",
+      "Presentare le offerte entro il": "16/07/2025 12:00 [Ora Italiana]",
+      "Data I Seduta": "17/07/2025 08:00 [Ora Italiana]",
+      "Bando P.N.R.R./P.N.C.": "NO"
+    },
+
+    "regione": "Lazio"
+  },
+  {
+    "codice": "B798233771",
+    "categoria": "Sicurezza",
+    "titolo": "CSE Accordo Quadro di durata biennale con unico operatore avente ad oggetto gli interventi di messa in sicurezza e di manutenzione delle alberature ed aree a verde di proprietà e/o in uso alla Regione Lazio e lungo le fasce frangivento 3 Lotti",
+    "link": "https://centraleacquisti.regione.lazio.it/bandi-e-strumenti-di-acquisto/bandi-di-gara-in-scadenza/dettaglio-bando?id_doc=4928220&tipo_doc=BANDO_GARA_PORTALE",
+    "stato": "Aperto",
+    "tipo_utente": "Imprese",
+    "data_chiusura": "16-07-2025",
+    "allegati": [],
+    "scheda_info": {},
+    "regione": "Lazio"
+  },
+  {
+    "codice": "PI14966225",
+    "categoria": "Salute e Prevenzione",
+    "titolo": "Appalto Specifico Per L’acquisizione Di Farmaci Occorrenti Alle Aziende Sanitarie Della Regione Lazio– Farmaci 2025 – Ottava Tranche",
+    "link": "https://centraleacquisti.regione.lazio.it/bandi-e-strumenti-di-acquisto/bandi-di-gara-in-scadenza/dettaglio-bando?id_doc=5169271&tipo_doc=BANDO_GARA_PORTALE",
+    "stato": "Aperto",
+    "tipo_utente": "Imprese",
+    "data_chiusura": "25-07-2025",
+    "allegati": [
+      {
+        "name": "Capitolato d'oneri_ Lettera d'invito:",
+        "link": "https://stella.regione.lazio.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=%2E%2E%2F&TECHVALUE=Capitolato%20d%20oneri_Lettera%20di%20invito%20%287%29.pdf*pdf*779169*adb1896cf68d483ea_20250702101517291*SHA256*26D5841DC17978C6B0280B5DC8EC309EC8BD358CE527639652C83C2D48452CE8*2025-07-02T12%3A15%3A22&FORMAT=I%2CN"
+      },
+      {
+        "name": "Allegato 1_ Domanda di partecipazione:",
+        "link": "https://stella.regione.lazio.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=%2E%2E%2F&TECHVALUE=Allegato%201_%20Domanda%20di%20partecipazione.docx*docx*5658641*rce26669d025466ea_20250702101554165*SHA256*1F02BE566390319215D2A43F5E9974A44CA53E37C5165EFBE7A8BC3FB7F0AF8A*2025-07-02T12%3A16%3A02&FORMAT=I%2CN"
+      },
+      {
+        "name": "Allegato 2_ modello DGUE ( da compilare a sistema):",
+        "link": "https://stella.regione.lazio.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=%2E%2E%2F&TECHVALUE=allegato%202_modello%20dgue.pdf*pdf*1630341*rec3a4dbbcd640908_20250630102346866*SHA256*62210A4CD8EC87D535ED337BD6EA0A4C17AF7E9862DDC3DFDF98A61C36F1099C*2025-06-30T12%3A23%3A51&FORMAT=I%2CN"
+      },
+      {
+        "name": "Allegato 3 _ Elenco prodotti:",
+        "link": "https://stella.regione.lazio.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=%2E%2E%2F&TECHVALUE=Allegato%203_Elenco%20prodotti%20%2810%29.pdf*pdf*394056*r8ac5f0669a648f79_20250702101628535*SHA256*F77C0CB98D803D5D8A64D1AF268BFFF669C4E62B83CAC08E62CA5C79EB6E4801*2025-07-02T12%3A16%3A31&FORMAT=I%2CN"
+      },
+      {
+        "name": "Allegato 4_ Capitolato Tecnico:",
+        "link": "https://stella.regione.lazio.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=%2E%2E%2F&TECHVALUE=Allegato%204_Capitolato%20Tecnico%20%289%29.pdf*pdf*357382*f4e7a4c3579d4c87a_20250702101930389*SHA256*282DE7E20BB472679AB830DE55BB70FE4B47A9F5AEB507C061985E659E2B1BFD*2025-07-02T12%3A19%3A34&FORMAT=I%2CN"
+      },
+      {
+        "name": "Allegato 5- Schema di Convenzione:",
+        "link": "https://stella.regione.lazio.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=%2E%2E%2F&TECHVALUE=Allegato%205_%20Schema%20Convenzione%20%283%29.pdf*pdf*559890*a0972fde36dd47eeb_20250702102603589*SHA256*A6510C5489C37EAD41E48D852A25FAD898A96A86FA98B3445329D0590E442A02*2025-07-02T12%3A26%3A09&FORMAT=I%2CN"
+      },
+      {
+        "name": "Allegato 6_ Importo cauzioni:",
+        "link": "https://stella.regione.lazio.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=%2E%2E%2F&TECHVALUE=Allegato%206_Importo%20cauzioni%20%289%29.pdf*pdf*373699*d0df48e01c394b6bb_20250702102631273*SHA256*7CD5CCDFA161C720BA155FE53EDC0EE3F2AD86A195399D6504F02A5E5D7D3FE7*2025-07-02T12%3A26%3A34&FORMAT=I%2CN"
+      },
+      {
+        "name": "Allegato 7- Modello attestazione pagamento imposta di bollo:",
+        "link": "https://stella.regione.lazio.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=%2E%2E%2F&TECHVALUE=Allegato%207_Modello%20attestazione%20pagamento%20imposta%20bollo%20%284%29.docx*docx*384778*r08aeb3cc3514c239_20250702102652471*SHA256*3FD6A13CC26529AACB44F01D6BC5ECD6BBB454E19B18932CE4B7670662F1B813*2025-07-02T12%3A26%3A56&FORMAT=I%2CN"
+      },
+      {
+        "name": "Allegato 8- Modulo per verifiche ex articolo 94 D.lgs n.36/2023:",
+        "link": "https://stella.regione.lazio.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=%2E%2E%2F&TECHVALUE=DICHIARAZIONI%20X%20BDNA.zip*zip*460356*r45492125ff24e009_20250702102832122*SHA256*9661BA571D634FB5F0D75CE614988A46E35CD7AA1DDDEC975168D053763BD743*2025-07-02T12%3A28%3A35&FORMAT=I%2CN"
+      },
+      {
+        "name": "Allegato 9- DCA U00247 2019:",
+        "link": "https://stella.regione.lazio.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=%2E%2E%2F&TECHVALUE=allegato%209_dca%20u00247%202019%20%282%29%20%285%29.pdf*pdf*621484*r2ff8be521be45cd8_20250630102412866*SHA256*A6956AC3A8BF5D903C30291E42ECFB20E4D48E166205F7E144C601815ECE5047*2025-06-30T12%3A24%3A24&FORMAT=I%2CN"
+      }
+    ],
+    "scheda_info": {
+      "BANDO": "(PI149662-25)",
+      "Descrizione breve": "Appalto Specifico Per L’acquisizione Di Farmaci Occorrenti Alle Aziende Sanitarie Della Regione Lazio– Farmaci 2025 – Ottava Tranche",
+      "Tipo di Procedura": "Ristretta",
+      "Ente Appaltante": "Giunta Regionale",
+      "Importo Appalto": "120.254.836,39 € (Iva Esclusa)",
+      "Criterio Aggiudicazione": "Prezzo più basso",
+      "Tipo Appalto": "Forniture",
+      "Termine Richiesta Quesiti": "17/07/2025 16:00[Ora Italiana]",
+      "Presentare le offerte entro il": "25/07/2025 17:00 [Ora Italiana]",
+      "Data I Seduta": "28/07/2025 11:00 [Ora Italiana]",
+      "Bando P.N.R.R./P.N.C.": "NO"
+    },
+    "regione": "Lazio"
+  },
+  {
+    "codice": "B73649F2BA",
+    "categoria": "Servizi",
+    "titolo": "Concessione bar Via R. Raimondi Garibaldi 7, Roma",
+    "link": "https://centraleacquisti.regione.lazio.it/bandi-e-strumenti-di-acquisto/bandi-di-gara-in-scadenza/dettaglio-bando?id_doc=4945361&tipo_doc=BANDO_GARA_PORTALE",
+    "stato": "Aperto",
+    "tipo_utente": "Cittadini",
+    "data_chiusura": "06-08-2025",
+    "allegati": [
+      {
+        "name": "Determina a contrarre con atti allegati:",
+        "link": "https://stella.regione.lazio.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=%2E%2E%2F&TECHVALUE=Decisone%20a%20contrarre%20n.%20G07166%20del%2009.06.2025.pdf*pdf*18833328*raa8bf2bc9fa41ae8_20250610070042380*SHA256*3DBE7E7AEB93A575C1E08B748213256262FBA04E9400AAE370EFFC0AE26DE36F*2025-06-10T09%3A01%3A17&FORMAT=I%2CN"
+      },
+      {
+        "name": "CAPITOLATO:",
+        "link": "https://stella.regione.lazio.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=%2E%2E%2F&TECHVALUE=Allegato%20A%20Capitolato%20Speciale.pdf*pdf*838786*r9d2ac35567e4856a_20250610095557879*SHA256*108553109FAFF714CF47F5BBD1006F9FFF654914F8ECC629359103268F6889C1*2025-06-10T11%3A58%3A08&FORMAT=I%2CN"
+      },
+      {
+        "name": "DISCIPLINARE:",
+        "link": "https://stella.regione.lazio.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=%2E%2E%2F&TECHVALUE=Allegato%20B%20Disciplinare.pdf*pdf*690576*e4429fb6973a41e0a_20250610100906456*SHA256*69CD1527C7C7C34179BBE57CF2EE798E753737380134C983801C325CAA56270F*2025-06-10T12%3A09%3A10&FORMAT=I%2CN"
+      },
+      {
+        "name": "Patto integrità:",
+        "link": "https://stella.regione.lazio.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=%2E%2E%2F&TECHVALUE=Allegato%20C%20Patto%20integrita.pdf*pdf*143085*fa2dbb90d8ab403db_20250522092256560*SHA256*4C069C2B094F6B7DE66AE091B0CFD2994F6FD66D75A30737C5F80DC29EAD47AB*2025-05-22T11%3A22%3A59&FORMAT=I%2CN"
+      },
+      {
+        "name": "Schema di contratto:",
+        "link": "https://stella.regione.lazio.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=%2E%2E%2F&TECHVALUE=Allegato%20D%20Schema%20di%20contratto.pdf*pdf*229646*rcc6f6e2258645f48_20250522092235174*SHA256*34B81238EBA46FE45C8B83012723C9319104BCB7EF23CAFF283B7119B6D1C1BF*2025-05-22T11%3A22%3A38&FORMAT=I%2CN"
+      },
+      {
+        "name": "Planimetria BAR Palazzina B:",
+        "link": "https://stella.regione.lazio.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=%2E%2E%2F&TECHVALUE=Allegato%20E%20Planimetria%20BAR%20Palazzina%20B.pdf*pdf*134091*r05d5b8865bf4b889_20250522094400338*SHA256*72629D3DA334A18E255E8F2CAB201E9702901DC1C3B06464D7F9E503C17E4624*2025-05-22T11%3A44%3A03&FORMAT=I%2CN"
+      },
+      {
+        "name": "Planimetria BUVETTE e Sala TEVERE - Pal. A:",
+        "link": "https://stella.regione.lazio.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=%2E%2E%2F&TECHVALUE=Allegato%20F%20Planimetria%20BUVETTE%20e%20Sala%20TEVERE%20%20Pal.A.pdf*pdf*410143*rdd0cf5b05ac4c26b_20250522094426142*SHA256*E035544E85D9CF6327154D4E7CABD58D4BB7F0E491781CAD23FE8431E0115F16*2025-05-22T11%3A44%3A28&FORMAT=I%2CN"
+      },
+      {
+        "name": "FM3_09_0460_A003_P01.dwg:",
+        "link": "https://stella.regione.lazio.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=%2E%2E%2F&TECHVALUE=FM3_09_0460_A003_P01.dwg*dwg*5046917*c18c0a7d1368482aa_20250522094507834*SHA256*6FF8E120846449CCA01B393CF57F915FF09A5314C55D81624F8A9D78691C5829*2025-05-22T11%3A45%3A16&FORMAT=I%2CN"
+      },
+      {
+        "name": "FM3_09_0460_A003_PTE.dwg:",
+        "link": "https://stella.regione.lazio.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=%2E%2E%2F&TECHVALUE=FM3_09_0460_A003_PTE.dwg*dwg*5228735*r50c2fe668074558a_20250522094540096*SHA256*BF7D498A9DDA45FA879BFB6E7958D5C7A68257361A68881DE26ADE802B4575E4*2025-05-22T11%3A45%3A52&FORMAT=I%2CN"
+      },
+      {
+        "name": "Domanda di partecipazione e dichiarazioni amm:",
+        "link": "https://stella.regione.lazio.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=%2E%2E%2F&TECHVALUE=Allegato%201%20Domanda%20di%20partecipazione%20e%20dichiarazioni%20amm.docx*docx*134623*rd156bf6f6914b0db_20250522093548463*SHA256*F169E1A7B29847F7790469985292770EF23F395974DC48B39CB95790141E9AD2*2025-05-22T11%3A35%3A52&FORMAT=I%2CN"
+      },
+      {
+        "name": "Iscrizione CCIAA:",
+        "link": "https://stella.regione.lazio.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=%2E%2E%2F&TECHVALUE=Allegato%202%20iscrizione%20CCIAA.docx*docx*130567*a518573d15e14b138_20250522093247608*SHA256*73932274C712088248B9CC27752ACB7819EC179B0901981B6D79D7C1A932CDF2*2025-05-22T11%3A32%3A50&FORMAT=I%2CN"
+      },
+      {
+        "name": "Modello art. 89 D.Lgs 159_2011:",
+        "link": "https://stella.regione.lazio.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=%2E%2E%2F&TECHVALUE=Allegato%203%20art.89%20d.lgs%20159.2011.docx*docx*36449*ra9b34d68a7a4ac5b_20250522093321381*SHA256*E7950D73AE6D11420448FF3F92B43F369BA32E25A4D4951C219ABE366A38AA0F*2025-05-22T11%3A33%3A24&FORMAT=I%2CN"
+      },
+      {
+        "name": "Modello art.85 d.lgs 159.2011:",
+        "link": "https://stella.regione.lazio.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=%2E%2E%2F&TECHVALUE=Allegato%204%20art.85%20d.lgs%20159.2011.docx*docx*97481*a66e988b8c5c40fcb_20250522093610264*SHA256*6F55EC2968C894DA3A017DC68BDA89ED4C662480AB688E0E02B196BE0E076BE3*2025-05-22T11%3A36%3A13&FORMAT=I%2CN"
+      },
+      {
+        "name": "Duvri:",
+        "link": "https://stella.regione.lazio.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=%2E%2E%2F&TECHVALUE=Allegato%205%20DUVRI.docx*docx*159273*r198b3f128a24ad99_20250522093906478*SHA256*E4F9F5A07D5F88DC2AF5CE7624236AFC4CCD97B5C789B7D9416DD2DDC5D09FB2*2025-05-22T11%3A39%3A09&FORMAT=I%2CN"
+      },
+      {
+        "name": "All. al Duvri Palazzina A:",
+        "link": "https://stella.regione.lazio.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=%2E%2E%2F&TECHVALUE=Allegato1%20al%20DUVRI%20Palazzina%20A.pdf*pdf*11456637*c98bf163615f47f3b_20250522093935031*SHA256*911AB4956C8E63CB51EF4CA27DCDFD0166ED12910C3AF17A8C6F28B0FF8D38CA*2025-05-22T11%3A39%3A56&FORMAT=I%2CN"
+      },
+      {
+        "name": "All. al Duvri PT ALA OVEST Pal B Reg Lazio Q.S Palazzina A q.s 1:",
+        "link": "https://stella.regione.lazio.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=%2E%2E%2F&TECHVALUE=Allegato2%20al%20DUVRI%20PT%20ALA%20OVEST%20Pal%20B.pdf*pdf*566211*fd82cc94643b47069_20250522094038320*SHA256*8DFF872AD7100D8A4683D859A752F49F15734181937BF2E1B1B7A4068CF72DF0*2025-05-22T11%3A40%3A45&FORMAT=I%2CN"
+      },
+      {
+        "name": "All. al Duvri norme emergenza visitatori e ditte:",
+        "link": "https://stella.regione.lazio.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=%2E%2E%2F&TECHVALUE=Allegato3%20al%20DUVRI%20norme%20emergenza%20visitatori%20e%20ditte.pdf*pdf*410697*r544bd7511224dc29_20250522094104457*SHA256*FFF0FE1B8C358E986F67D41A1135EF2C85E3FCD4B5F2843A1AC6222F7FE3C01E*2025-05-22T11%3A41%3A08&FORMAT=I%2CN"
+      },
+      {
+        "name": "Attestazione pagamento imposta bollo:",
+        "link": "https://stella.regione.lazio.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=%2E%2E%2F&TECHVALUE=Allegato%206%20pag.%20imposta%20bollo.docx*docx*48627*rde9a3da900f47909_20250522093640239*SHA256*18DF23E649A2F619C4CC0C6A3F3C26A38121A9D407350FAA87541BA9ABF92907*2025-05-22T11%3A36%3A42&FORMAT=I%2CN"
+      },
+      {
+        "name": "Verbale di sopralluogo:",
+        "link": "https://stella.regione.lazio.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=%2E%2E%2F&TECHVALUE=Allegato%207%20Verbale%20di%20sopralluogo.docx*docx*47585*a957b933807e4b93a_20250522094336683*SHA256*76C2F754EC36B2F3D4590FDF017649788896C976F548C26CAA533A55962441F7*2025-05-22T11%3A43%3A41&FORMAT=I%2CN"
+      },
+      {
+        "name": "Allegato Modello 1:",
+        "link": "https://stella.regione.lazio.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=%2E%2E%2F&TECHVALUE=Allegato%208%20Modello%201.doc*doc*49664*r47c743aa3d6427ba_20250522095223508*SHA256*D1F7D071F961370462C0C14420A77C34DA720F7495857B8D9F1E73336E4E8533*2025-05-22T11%3A52%3A26&FORMAT=I%2CN"
+      },
+      {
+        "name": "Allegato Modello 2 familiari_conviventi_maggiorenni.:",
+        "link": "https://stella.regione.lazio.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=%2E%2E%2F&TECHVALUE=Allegato%208%20Modello%202%20familiari_conviventi_maggiorenni..docx*docx*32576*b88eb037dcac46908_20250522095341592*SHA256*EDF4340DB9F48503EC50162378BE795CA69D8312CABE1077B4AA0DBF306B6AD0*2025-05-22T11%3A53%3A44&FORMAT=I%2CN"
+      },
+      {
+        "name": "Allegato Fac simile di Modello PEF:",
+        "link": "https://stella.regione.lazio.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=%2E%2E%2F&TECHVALUE=Allegato%209%20Fac%20simile%20di%20Modello%20PEF.xlsx*xlsx*19987*c2362426fddb49869_20250522095013844*SHA256*F25FCA26E2779944D3C336FA346A7F10FDBD45C832B30D5A8031D5D099DB47F3*2025-05-22T11%3A50%3A16&FORMAT=I%2CN"
+      },
+      {
+        "name": "Schema di Offerta tecnica:",
+        "link": "https://stella.regione.lazio.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=%2E%2E%2F&TECHVALUE=Allegato%2010%20Schema%20di%20Offerta%20tecnica.docx*docx*108503*red606c6d8574de89_20250522094925186*SHA256*1A44B8DCA3B2526B2D7CED2EBA61C7A956E040CADAAEF2FFA4C13091E7DB1EBD*2025-05-22T11%3A49%3A31&FORMAT=I%2CN"
+      },
+      {
+        "name": "Schema di Offerta Economica:",
+        "link": "https://stella.regione.lazio.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=%2E%2E%2F&TECHVALUE=Allegato%2011%20Schema%20di%20Offerta%20Economica.docx*docx*278950*r29c791c464445cca_20250522093845022*SHA256*D3E8A13AC18FA8C43E17442403968B3AC31AD628B8E45B06499FD5029CF6EA68*2025-05-22T11%3A38%3A48&FORMAT=I%2CN"
+      },
+      {
+        "name": "PEF:",
+        "link": "https://stella.regione.lazio.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=%2E%2E%2F&TECHVALUE=Allegato%2012%20PEF.pdf*pdf*313600*c18c1081ceae460ab_20250522093043156*SHA256*F5BBE951468AB9037BEAF7CB039B6768CA8CB80AD13CC41CC9FE59B184727911*2025-05-22T11%3A30%3A47&FORMAT=I%2CN"
+      },
+      {
+        "name": "Allegato Matrice rischi:",
+        "link": "https://stella.regione.lazio.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=%2E%2E%2F&TECHVALUE=Allegato%2013%20Matrice%20rischi.pdf*pdf*148904*r7cf5726862a47039_20250522095522662*SHA256*DFC5D23EF4559398B94B17EBECE1BE08F82D632BF7405834DC12A3067CA3C9D9*2025-05-22T11%3A55%3A26&FORMAT=I%2CN"
+      },
+      {
+        "name": "Allegato Informativa Privacy:",
+        "link": "https://stella.regione.lazio.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=%2E%2E%2F&TECHVALUE=Allegato%2014%20Informativa%20Privacy.pdf*pdf*248741*dc40aed5c2b54585a_20250522095606198*SHA256*42DACE952DB21E5A3D4E50A6DF2B73211925210A403930979C06CDE34D3DC6B1*2025-05-22T11%3A56%3A12&FORMAT=I%2CN"
+      },
+      {
+        "name": "Dgue:",
+        "link": "https://stella.regione.lazio.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=%2E%2E%2F&TECHVALUE=Allegato%2015%20DGUE.pdf*pdf*704106*e61ec490cb104637a_20250522093704327*SHA256*B39CB9C9C39551F3D71B3EC5B6627899733DC6213D43425887C7B29DC97E6087*2025-05-22T11%3A37%3A07&FORMAT=I%2CN"
+      }
+    ],
+    "scheda_info": {
+      "BANDO": "(PI126954-25)",
+      "Descrizione breve": "PROCEDURA APERTA PER L’AFFIDAMENTO IN CONCESSIONE DEI SERVIZI DI GESTIONE BAR, TAVOLA CALDA/FREDDA PRESSO LA SEDE DELLA REGIONE LAZIO DI VIA R. RAIMONDI GARIBALDI 7 ROMA Codici CPV: 55410000-7 (Servizi di gestione bar) - 55510000-8 (Servizi di mensa)",
+      "Tipo di Procedura": "Aperta",
+      "Ente Appaltante": "Giunta Regionale",
+      "Importo Appalto": "5.513.642,59 € (Iva Esclusa)",
+      "Criterio Aggiudicazione": "Offerta economicamente più vantaggiosa",
+      "Tipo Appalto": "Servizi",
+      "Termine Richiesta Quesiti": "25/07/2025 10:00[Ora Italiana]",
+      "Presentare le offerte entro il": "06/08/2025 12:00 [Ora Italiana]",
+      "Data I Seduta": "08/08/2025 12:00 [Ora Italiana]",
+      "Motivazione Appalto Verde": "Motivazione Appalto Verde",
+      "Bando P.N.R.R./P.N.C.": "NO",
+      "": ""
+    },
+    "regione": "Lazio"
+  }
+]
