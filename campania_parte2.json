@@ -1,0 +1,376 @@
+[
+    {
+        "codice": "PI006129-25",
+        "categoria": "Ambiente e Sviluppo sostenibile",
+        "titolo": "Proc.  4102/AP/2025 - AVVISO DI PROCEDURA AD EVIDENZA PUBBLICA PER L’INDIVIDUAZIONE DEI SOGGETTI ASSEGNATARI DELLE CONCESSIONI DI SFRUTTAMENTO DEI GIACIMENTI DELLE ACQUE TERMALI PER LE CONCESSIONI RISPETTIVAMENTE DENOMINATE HOTEL SOLEMAR, PENSIONE LETIZIA, IL GATTOPARDO E HOTEL TERME LA BAGATTELLA.",
+        "url": "https://pgt.regione.campania.it/portalegare/index.php/bandi?getdettaglio=yes&bando=265560&tipobando=Bando&RicQ=NO&VisQ=SI&tipoDoc=BANDO_GARA_PORTALE&xslt=XSLT_BANDO_GARA_PORTALE&scadenzaBando=2025-07-28T13:00:00&jk=",
+        "stato": "Aperto",
+        "tipo_utente": "Imprese",
+        "data_chiusura": "28-07-2025",
+        "allegati": [
+            {
+                "name": "DD 221_2024 approvazione atti.pdf",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=DD%20221_2024%20approvazione%20atti.pdf*pdf*161499*c176f87d7b154d75a_20250721115034435*SHA256*60E39469F6872AD91C5FF6045A992CCBA301BFAF581AD39CACF8163ABF10DFFF*2025-07-21T13:50:35&FORMAT=I,N"
+            },
+            {
+                "name": "DD 207_2025 rettifica prenotazione impegno.pdf",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=DD%20207_2025%20rettifica%20prenotazione%20impegno.pdf*pdf*292827*rb6f6397c49942b28_20250721115044797*SHA256*F97D7601E939A5A3C4238242C8F786158080D2D17C217F7183DB2AC856230F64*2025-07-21T13:50:46&FORMAT=I,N"
+            },
+            {
+                "name": "DD 277_2025 indizione.pdf",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=DD%20277_2025%20indizione.pdf*pdf*94327*rec371eb42054ce78_20250721115053821*SHA256*D438246D2D22CE4C95977F99C8AABCBF6CF2CC025297F2FDDECB5A807C9576D4*2025-07-21T13:50:54&FORMAT=I,N"
+            },
+            {
+                "name": "02_CAPITOLATO_SPECIALE_APPALTO_AQ_REV_06.pdf",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=02_CAPITOLATO_SPECIALE_APPALTO_AQ_REV_06.pdf*pdf*696204*rbf12f29fc2340299_20250721115209191*SHA256*C2380C26AE3B9CB1B36B32D17C2F72F052ABB661211036EBFD24632EDC0491EB*2025-07-21T13:52:10&FORMAT=I,N"
+            },
+            {
+                "name": "03_SCHEDA_TECNICA_AQ.pdf",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=03_SCHEDA_TECNICA_AQ.pdf*pdf*132945*rb442b810b2e3f9bb_20250721115220605*SHA256*792E183ED01162B6D9A012DF2C7A54F143F77B11F910C002C725E0D61C9366D7*2025-07-21T13:52:20&FORMAT=I,N"
+            },
+            {
+                "name": "04_SAL_1.pdf",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=04_SAL_1.pdf*pdf*55365*rb5f978d7a3c400db_20250721115233232*SHA256*FA1E2C8D7B7BE4D4A8A7E2C8F54B09E9F6D9255DDE33D06D4F88C4B5A783EE7B*2025-07-21T13:52:33&FORMAT=I,N"
+            },
+            {
+                "name": "05_DURC.pdf",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=05_DURC.pdf*pdf*28893*rb6f6397c49942b28_20250721115242908*SHA256*1D3FF69F18426B5F690AB049EC1B94445B53620B09FF3582FEE66E24CA5E1FF5*2025-07-21T13:52:42&FORMAT=I,N"
+            },
+            {
+                "name": "06_CV_ditta_AQ.pdf",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=06_CV_ditta_AQ.pdf*pdf*46502*rb60e3b6e3b2c7b92_20250721115250461*SHA256*CF932BCBABE19D3BBFA3BD2B14E393C116F005553C40EC0C44239A30E4C040CC*2025-07-21T13:52:50&FORMAT=I,N"
+            },
+            {
+                "name": "07_CV_Direttore_tecnico.pdf",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=07_CV_Direttore_tecnico.pdf*pdf*46606*rb9bb5a7d2f13c5af_20250721115302712*SHA256*EE7B96F79B7D7CDE3B517E2B9C9EC5BDDD4704037F5E0F1EECF09F4F0EC24714*2025-07-21T13:53:02&FORMAT=I,N"
+            }
+        ],
+        "scheda_info": {
+            "Descrizione breve": "Proc. 4102/AP/2025 - AVVISO DI PROCEDURA AD EVIDENZA PUBBLICA PER L’INDIVIDUAZIONE DEI SOGGETTI ASSEGNATARI DELLE CONCESSIONI DI SFRUTTAMENTO DEI GIACIMENTI DELLE ACQUE TERMALI PER LE CONCESSIONI RISPETTIVAMENTE DENOMINATE HOTEL SOLEMAR, PENSIONE LETIZIA, IL GATTOPARDO E HOTEL TERME LA BAGATTELLA.",
+            "Id Appalto ANAC": "9962cf51-d559-40e6-9f98-72c2109bbc97",
+            "Ente appaltante": "Giunta Regionale della Campania - Ufficio Speciale Centrale Acquisti",
+            "Importo Appalto": "3.960.000,00 (Iva Esclusa)",
+            "Criterio Aggiudicazione": "Offerta economicamente più vantaggiosa",
+            "Tipo Appalto": "Servizi",
+            "Termine Richiesta Quesiti": "18/07/2025 ore 23:59:00 [Ora Italiana]",
+            "Presentare le offerte entro il": "28/07/2025 ore 13:00:00 [Ora Italiana]",
+            "Data I Seduta": "30/07/2025 ore 11:30:00 [Ora Italiana]",
+            "Enti Proponenti": "Giunta Regionale della Campania - Ufficio Speciale Centrale Acquisti"
+        },
+        "regione": "Campania"
+    },
+    {
+        "codice": "PI007217-25 ",
+        "categoria": "Servizi",
+        "titolo": "Accordo Quadro (AQ) quadriennale (Rep. 14883 /2025) per la fornitura del servizio di “Assistenza tecnica all’attuazione del piano di interventi finanziati a valere sul FSC 2021-2027” - Appalto Specifico (AS) per l’affidamento della Linea di Servizio 2 “Attuazione: Supporto ai responsabili dell’Attuazione degli interventi/linee di azione e ai Soggetti Attuatori”.",
+        "url": "https://pgt.regione.campania.it/portalegare/index.php/bandi?getdettaglio=yes&bando=269395&tipobando=Bando&RicQ=NO&VisQ=NO&tipoDoc=BANDO_GARA_PORTALE&xslt=XSLT_BANDO_GARA_PORTALE&scadenzaBando=2025-08-04T09:00:00&jk=",
+        "stato": "Aperto",
+        "tipo_utente": "Imprese",
+        "data_chiusura": "04-08-2025",
+        "link_dettaglio": "https://pgt.regione.campania.it/portalegare/index.php/bandi?getdettaglio=yes&bando=269395&tipobando=Bando&RicQ=NO&VisQ=NO&tipoDoc=BANDO_GARA_PORTALE&xslt=XSLT_BANDO_GARA_PORTALE&scadenzaBando=2025-08-04T09:00:00&jk=",
+        "allegati": [],
+        "scheda_info": {
+            "Descrizione breve": "Accordo Quadro (AQ) quadriennale (Rep. 14883 /2025) per la fornitura del servizio di “Assistenza tecnica all’attuazione del piano di interventi finanziati a valere sul FSC 2021-2027” - Appalto Specifico (AS) per l’affidamento della Linea di Servizio 2 “Attuazione: Supporto ai responsabili dell’Attuazione degli interventi/linee di azione e ai Soggetti Attuatori”.",
+            "Id Appalto ANAC": "d2602206-6389-47bd-b0d9-bdea5f6fea08",
+            "CIG": "B7BC44D7F4",
+            "Ente appaltante": "Giunta Regionale della Campania - Ufficio Speciale Centrale Acquisti",
+            "Importo Appalto": "2.868.852,46 (Iva Esclusa)",
+            "Criterio Aggiudicazione": "Offerta economicamente più vantaggiosa",
+            "Tipo Appalto": "Servizi",
+            "Termine Richiesta Quesiti": "29/07/2025 ore 23:59:00 [Ora Italiana]",
+            "Presentare le offerte entro il": "04/08/2025 ore 09:00:00 [Ora Italiana]",
+            "Data I Seduta": "04/08/2025 ore 14:30:00 [Ora Italiana]",
+            "Enti Proponenti": "Giunta Regionale della Campania - Ufficio Speciale Centrale Acquisti",
+            "Documentazione": "La presente procedura è riservata ai soli operatori invitati dalla Stazione Appaltante. Gli inviti sono visualizzabili nella sezione \"Inviti\", se invitati.",
+            "Note": ""
+        },
+        "regione": "Campania"
+    },
+    {
+        "codice": "PI006438-25",
+        "categoria": "Territorio ed Edilizia",
+        "titolo": "Bando Rettificato -Proc.4144/AP/2025 Procedura di gara aperta telematica, ai sensi degli artt. 25 e 71 del D.lgs. 36/2023, finalizzata all’affidamento di un appalto di lavori relativo all’intervento di rifacimento del pacchetto impermeabilizzante della copertura e dell'impianto di protezione contro le scariche atmosferiche (Gabbia di Faraday) a servizio della Residenza Universitaria del Campus di Fisciano (SA), denominata \"LOTTO I\", da aggiudicarsi con il criterio del minor prezzo.",
+        "url": "https://pgt.regione.campania.it/portalegare/index.php/bandi?getdettaglio=yes&bando=265995&tipobando=Bando&RicQ=YES&VisQ=SI&tipoDoc=BANDO_GARA_PORTALE&xslt=XSLT_BANDO_GARA_PORTALE&scadenzaBando=2025-08-07T13:00:00&jk=",
+        "stato": "Aperto",
+        "tipo_utente": "Imprese",
+        "data_chiusura": "07-08-2025",
+        "link_dettaglio": "https://pgt.regione.campania.it/portalegare/index.php/bandi?getdettaglio=yes&bando=265995&tipobando=Bando&RicQ=YES&VisQ=SI&tipoDoc=BANDO_GARA_PORTALE&xslt=XSLT_BANDO_GARA_PORTALE&scadenzaBando=2025-08-07T13:00:00&jk=",
+        "allegati": [
+            {
+                "name": "Quadro economico",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=ALL.%204%20_13_PE-EC-06_QUADRO_ECONOMICO%20rev2.pdf.p7m*p7m*79329*e55f2a7b296547d4a_20250619104016320*SHA256*F6F45420BCE30AD1CE6A1F2E341550690C257FF01DE2F4FB969608812661ED39*2025-06-19T12:40:18&FORMAT=I,N"
+            },
+            {
+                "name": "MOD 1 Domanda di partecipazione",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=MODELLO%201_ISTANZA%20DI%20PARTECIPAZIONE.docx*docx*61637*r89d9b19e034407eb_20250619103233652*SHA256*9E518FB55392E3EDC6EBFC2736236DFBBC263EB417C1B9903A6741A323173D61*2025-06-19T12:32:34&FORMAT=I,N"
+            },
+            {
+                "name": "MOD 2 Progetto esecutivo",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=MODELLO%202_PROGETTO_ESECUTIVO.zip*zip*1624338*os7s3a2966f4502343a_20250619103256573*SHA256*BF10A0F1D8A3CF08D0DD7E2082B2159E48E2726F68374CFB8C3F6C68149C8A01*2025-06-19T12:32:56&FORMAT=I,N"
+            },
+            {
+                "name": "MOD 3 Offerta economica",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=MODELLO%203_OFFERTA_ECONOMICA.zip*zip*383927*8md3b296f44142bf1_20250619103310490*SHA256*86E1E09D7DB12F748D6B7DA19A6C7F2EF073D58E3C3823B6ED2601B59E9D6E4D*2025-06-19T12:33:12&FORMAT=I,N"
+            },
+            {
+                "name": "MOD 4 Cauzione provvisoria",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=MODELLO%204_CAUZIONE_PROVVISORIA.docx*docx*40895*tjme2b296f4521de9_20250619103329751*SHA256*B7AD535AB6B5EEDB4C22F7C9241149D7607E17B5A224E4F31E06C70F15D80B24*2025-06-19T12:33:30&FORMAT=I,N"
+            },
+            {
+                "name": "MOD 5 Cauzione definitiva",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=MODELLO%205_CAUZIONE_DEFINITIVA.docx*docx*43056*ra3db296f455db105_20250619103350266*SHA256*652A98A393EE4372699B4BC27A3B7C2E9E1C68BDAD94B1105AE84E2828D5087E*2025-06-19T12:33:50&FORMAT=I,N"
+            },
+            {
+                "name": "MOD 6 Dichiarazione sostitutiva",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=MODELLO%206_DICHIARAZIONE_SOSTITUTIVA.docx*docx*31201*9jvdb296f45800361_20250619103404658*SHA256*FC3F2BC346DE22D4D2E3C29F38CF66A6B1EB57CE0A7440DA5B3C30EAF74B4F18*2025-06-19T12:34:04&FORMAT=I,N"
+            },
+            {
+                "name": "MOD 7 Elenco subappaltatori",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=MODELLO%207_ELENCO_SUBAPPALTATORI.docx*docx*13541*k8zdb296f45a6e3cd_20250619103422194*SHA256*2A3E9A4161A9603DD7E117C2B3748A39D4C18537F52E7C06E0D2DA898C1C3DC0*2025-06-19T12:34:22&FORMAT=I,N"
+            },
+            {
+                "name": "MOD 8 Elenco utilizzatori",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=MODELLO%208_ELENCO_UTILIZZATORI.docx*docx*16926*ijjeb296f45c264c4_20250619103438712*SHA256*24D56E516CC6E924B101D818D31294C6464D4047C868A178FB6A55460E34930B*2025-06-19T12:34:38&FORMAT=I,N"
+            },
+            {
+                "name": "MOD 9 Elenco attrezzature",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=MODELLO%209_ELENCO_ATTREZZATURE.docx*docx*28804*tw0db296f45e5b7f3_20250619103455794*SHA256*8ED105011D3A6BB9040AE7D1C03F08AC97009F303ABCF5143D3BB0A72832D4DC*2025-06-19T12:34:56&FORMAT=I,N"
+            },
+            {
+                "name": "MOD 10 Elenco servizi",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=MODELLO%2010_ELENCO_SERVIZI.zip*zip*45236*dwfdb296f4618c3f6_20250619103512455*SHA256*1388B9E67DDA06E5E8750D750A07E810F57CE7AC1B27BA0EBB08C7CF54D03A17*2025-06-19T12:35:12&FORMAT=I,N"
+            },
+            {
+                "name": "MOD 11 Cronoprogramma",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=MODELLO%2011_CRONOPROGRAMMA.xlsx*xlsx*46722*2u7db296f4645f667_20250619103533258*SHA256*3EE67FAF01232E0B1E3DD667B9243E6A375B1C56CC7AD3DA945D6AF5C5C95512*2025-06-19T12:35:33&FORMAT=I,N"
+            },
+            {
+                "name": "MOD 12 Scheda attestante oneri sicurezza",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=MODELLO%2012_SCHEDA_ATTESTANTE_ONERI_SICUREZZA.docx*docx*33481*gf7db296f466a7df0_20250619103549610*SHA256*B8A67E1B0DAA04920A4020EE6B57B5D6C92114B2B0D42068461F114C1852381A*2025-06-19T12:35:49&FORMAT=I,N"
+            },
+            {
+                "name": "MOD 13 Scheda attestante lavori in subappalto",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=MODELLO%2013_SCHEDA_ATTESTANTE_LAVORI_IN_SUBAPPALTO.docx*docx*24739*3j2db296f46902fa5_20250619103605251*SHA256*D27A63A4A5B0D3CEBCE192FEF19DE0B8552F3B7853D3DD424143F69FFB66CF1A*2025-06-19T12:36:05&FORMAT=I,N"
+            },
+            {
+                "name": "MOD 14 Scheda attestante lavori utilizzatori",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=MODELLO%2014_SCHEDA_ATTESTANTE_LAVORI_UTILIZZATORI.docx*docx*14056*er6db296f46b52e42_20250619103619625*SHA256*07F54788247B89EDE6D7EBCB6D97F4C936FDE145CCDBB10A5E59EABAA2EC98E3*2025-06-19T12:36:19&FORMAT=I,N"
+            },
+            {
+                "name": "MOD 15 Scheda attestante uso reti esterne",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=MODELLO%2015_SCHEDA_ATTESTANTE_USO_RETI_ESTERNE.docx*docx*13794*t6ldb296f46d935c6_20250619103637788*SHA256*94CF7F90DBD5D19D9BD3BA84BC9B8EEEC7DBD65EDB0D24E1B187D2A6E46CE42E*2025-06-19T12:36:37&FORMAT=I,N"
+            },
+            {
+                "name": "MOD 16 Scheda attestante modifiche progetto esecutivo",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=MODELLO%2016_SCHEDA_ATTESTANTE_MODIFICHE_PROGETTO_ESECUTIVO.docx*docx*20781*oktdb296f470d8d61_20250619103653400*SHA256*CB76B3F77EAE6D6D107B3C2C10C8EFD812E8234E31F30A22C8378D32B4B9F6AC*2025-06-19T12:36:53&FORMAT=I,N"
+            }
+        ],
+        "scheda_info": {
+            "Descrizione breve": "BANDO RETTIFICATO - Proc.4144/AP/2025 Procedura di gara aperta telematica, ai sensi degli artt. 25 e 71 del D.lgs. 36/2023, finalizzata all’affidamento di un appalto di lavori relativo all’intervento di rifacimento del pacchetto impermeabilizzante della copertura e dell'impianto di protezione contro le scariche atmosferiche (Gabbia di Faraday) a servizio della Residenza Universitaria del Campus di Fisciano (SA), denominata \"LOTTO I\", da aggiudicarsi con il criterio del minor prezzo.",
+            "Id Appalto ANAC": "9b894bfc-4d8f-4607-82f3-95e1f93e4c67",
+            "CIG": "B7842D9DE6",
+            "Ente appaltante": "Giunta Regionale della Campania - Ufficio Speciale Centrale Acquisti",
+            "Importo Appalto": "1.804.588,62 (Iva Esclusa)",
+            "Criterio Aggiudicazione": "Prezzo più basso",
+            "Tipo Appalto": "Lavori pubblici",
+            "Termine Richiesta Quesiti": "28/07/2025 ore 13:00:00 [Ora Italiana]",
+            "Presentare le offerte entro il": "07/08/2025 ore 13:00:00 [Ora Italiana]",
+            "Data I Seduta": "08/08/2025 ore 10:00:00 [Ora Italiana]",
+            "Enti Proponenti": "Azienda per il Diritto allo Studio Universitario della Regione Campania"
+        },
+        "regione": "Campania"
+    },
+    {
+        "codice": "PI006876-25",
+        "categoria": "Servizi",
+        "titolo": "Procedura di gara aperta telematica di rilevanza comunitaria, ai sensi degli artt. 14, 25 e 71 del D.lgs. 36/2023, finalizzata all’affidamento del servizio di “Rafforzamento delle capacità istituzionali sul principio DNSH e sulle verifiche climatiche dei progetti infrastrutturali”.",
+        "url": "https://pgt.regione.campania.it/portalegare/index.php/bandi?getdettaglio=yes&bando=267905&tipobando=Bando&RicQ=YES&VisQ=SI&tipoDoc=BANDO_GARA_PORTALE&xslt=XSLT_BANDO_GARA_PORTALE&scadenzaBando=2025-09-10T13:00:00&jk=",
+        "stato": "Aperto",
+        "tipo_utente": "Imprese",
+        "data_chiusura": "10-09-2025",
+        "link_dettaglio": "https://pgt.regione.campania.it/portalegare/index.php/bandi?getdettaglio=yes&bando=267905&tipobando=Bando&RicQ=YES&VisQ=SI&tipoDoc=BANDO_GARA_PORTALE&xslt=XSLT_BANDO_GARA_PORTALE&scadenzaBando=2025-09-10T13:00:00&jk=",
+        "allegati": [
+            {
+                "name": "Decreto a contrarre",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=DD_134_13052025_gara_DNSH_CAP_COE.pdf*pdf*157772*rad913b399734db9a_20250711140548113*SHA256*C082A312128292E3602921FEFA97473DBBFDC777713D401053C5DE7BC1D57742*2025-07-11T16:05:49&FORMAT=I,N"
+            },
+            {
+                "name": "Decreto prenotazione impegno",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=DD_139_15052025_prenotazione_gara_DNSH.pdf*pdf*144784*c4b3c3d417344be88_20250711140657705*SHA256*A679868DAAFCC3CC982528E93A26DDBE00F5224BA9B7451F26995EE8B492402D*2025-07-11T16:06:59&FORMAT=I,N"
+            },
+            {
+                "name": "Decreto di indizione",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=DD 594 del 10_07_2025 indizione.p7m*p7m*303785*d68f20ad42e0478e9_20250711140706305*SHA256*3704855EA6C0D3C3FF4222B3B6DABF372913424ED76AFA6D6B628A408C31A4C0*2025-07-11T16:07:07&FORMAT=I,N"
+            },
+            {
+                "name": "Relazione tecnico-illustrativa e stima economica",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=RELAZIONE_ILLUSTRATIVA_DNSH_integrata_09072025.pdf*pdf*955029*r1bb2c0b611b44aea_20250711140721796*SHA256*B4D046BD3F55790CE942503D3E3858F1D87A15484D7CBCDAA151341E16963A26*2025-07-11T16:07:22&FORMAT=I,N"
+            },
+            {
+                "name": "Capitolato speciale descrittivo e prestazionale",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=CAPITOLATO_DNSH.pdf*pdf*774621*d0c4d5aea2ad4da38_20250711140733430*SHA256*45573A85038E90F60DB02B7809F9B16FB102D98742B14B6A462716403B77C6B7*2025-07-11T16:07:34&FORMAT=I,N"
+            },
+            {
+                "name": "Schema di contratto",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=SCHEMA_CONTRATTO_DNSH.pdf*pdf*397706*rdee2a8b90174bc08_20250711140742430*SHA256*D9C197555C9ABCBDAC77A7E749F1FA4EC12143931A876D17CEB48E59CC37E887*2025-07-11T16:07:43&FORMAT=I,N"
+            },
+            {
+                "name": "Modello atto di nomina a responsabile esterno del trattamento dei dati",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=Modello nomina per trattamento dati.pdf*pdf*189531*f8083b4f1af346008_20250711140816155*SHA256*F3F8A0CFEAF92AD6AE66CE322311C1431479FD392E57B160E614864DF2A7560D*2025-07-11T16:08:17&FORMAT=I,N"
+            },
+            {
+                "name": "Disciplinare di gara",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=Disciplinare di gara 4141_AP_2025.pdf*pdf*827240*r40969a39b5b4326b_20250711152811113*SHA256*0A02CE8D7CEAB6A315172951302FFB73521873FAAD20CF8D8295EC9761B372AE*2025-07-11T17:28:12&FORMAT=I,N"
+            },
+            {
+                "name": "Modello 1 - Domanda di partecipazione",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=MODELLO 1_ISTANZA DI PARTECIPAZIONE.docx*docx*63396*r3f89e42a771448c8_20250711152820446*SHA256*A9C1CA744562CC7AA1449984C657B50ABE96CDAF6D5B3A9589070E9B1A3BDB3E*2025-07-11T17:28:21&FORMAT=I,N"
+            },
+            {
+                "name": "Modello 2 - Dichiarazioni integrative",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=MODELLO 2_DICHIARAZIONI INTEGRATIVE.docx*docx*75874*b9921e74f8cc45d7b_20250711152828162*SHA256*1459AEFA121CBFD22A43305448D21B064831908AF6E9C959C2B9DBF0F2A30C91*2025-07-11T17:28:29&FORMAT=I,N"
+            },
+            {
+                "name": "Modello 3 - Requisiti speciali",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=MODELLO 3_REQUISITI SPECIALI.docx*docx*71118*r0854f6d573348f2a_20250711152835403*SHA256*C4B9A51A9F45BFF4245C68BF2ED25A0E72E908F03CA9928F0BD9EE0FFE0C4108*2025-07-11T17:28:36&FORMAT=I,N"
+            },
+            {
+                "name": "Modello 4 - Protocollo di legalità",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=MODELLO 4_PROTOCOLLO DI LEGALITA'.docx*docx*72887*r8d581fc124a40428_20250711152842509*SHA256*5B0E9C7FB5A29079EB7E503CC610F90218961189F90C73B9513C78E1ED8F2629*2025-07-11T17:28:43&FORMAT=I,N"
+            },
+            {
+                "name": "Modello 5 - Dichiarazione familiari conviventi",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=MODELLO 5_DICHIARAZIONE FAMILIARI CONVIVENTI.docx*docx*69862*r7ffccdc10644f3c8_20250711152850443*SHA256*D6DE40FF5BAE63253F5083BCFFD8C854B13E731A8E16C62915FB9638540D26AB*2025-07-11T17:28:51&FORMAT=I,N"
+            },
+            {
+                "name": "Modello 6 - Offerta economica",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=MODELLO 6_OFFERTA ECONOMICA_rev.docx*docx*61180*aa82b3e4b42247d6b_20250711152857940*SHA256*B2FE48672A09A8C6CCEC1359D112C4B608C2E5A593BA4BD515132FD581600ADF*2025-07-11T17:28:58&FORMAT=I,N"
+            },
+            {
+                "name": "Attestazione “Assolvimento marca da bollo per gara telematica”",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=ASSOLVIMENTO MARCA DA BOLLO.docx*docx*65563*ra6e4c12249140478_20250711152907870*SHA256*181F702A019D51A6BBF712DACCADADB1348E24AA437FB8C9F757A273FCDB72C1*2025-07-11T17:29:08&FORMAT=I,N"
+            },
+            {
+                "name": "Informativa e consenso trattamento dati personali",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=Informativa e consenso trattamento dati personali.docx*docx*24817*b6cf699394a442b38_20250711152916263*SHA256*725C2DEDD5FACE90F271EFCACE6B4A7F628AB4B276255C33FA8451D370DF31BB*2025-07-11T17:29:17&FORMAT=I,N"
+            }
+        ],
+        "scheda_info": {
+            "Bando": "PI006876-25",
+            "Descrizione breve": "Procedura di gara aperta telematica di rilevanza comunitaria, ai sensi degli artt. 14, 25 e 71 del D.lgs. 36/2023, finalizzata all’affidamento del servizio di “Rafforzamento delle capacità istituzionali sul principio DNSH e sulle verifiche climatiche dei progetti infrastrutturali”.",
+            "Id Appalto ANAC": "230ea9b9-46c8-4eba-97d6-0cb6e36440a6",
+            "CIG": "B79F9DD76B",
+            "Ente appaltante": "Giunta Regionale della Campania - Ufficio Speciale Centrale Acquisti",
+            "Importo Appalto": "9.049.549,60 (Iva Esclusa)",
+            "Criterio Aggiudicazione": "Offerta economicamente più vantaggiosa",
+            "Tipo Appalto": "Servizi",
+            "Termine Richiesta Quesiti": "12/08/2025 ore 23:59:00 [Ora Italiana]",
+            "Presentare le offerte entro il": "10/09/2025 ore 13:00:00 [Ora Italiana]",
+            "Data I Seduta": "11/09/2025 ore 10:30:00 [Ora Italiana]",
+            "Enti Proponenti": "Giunta Regionale della Campania - Ufficio Speciale Centrale Acquisti"
+        },
+        "regione": "Campania"
+    },
+    {
+        "codice": " PI007336-25",
+        "categoria": "Mobilità, Trasporti e Infrastrutture",
+        "titolo": "Procedura aperta per la conclusione di un Accordo Quadro per l’affidamento di lavori di manutenzione straordinaria, messa in sicurezza ed efficientamento del sistema portuale di interesse regionale, con al massimo cinque operatori economici, per la durata di anni quattro, da aggiudicarsi con il criterio dell’offerta economicamente più vantaggiosa sulla base del miglior rapporto qualità/prezzo, ai sensi degli artt. 59 e 71 del D.lgs. 36/2023.",
+        "url": "https://pgt.regione.campania.it/portalegare/index.php/bandi?getdettaglio=yes&bando=268783&tipobando=Bando&RicQ=YES&VisQ=SI&tipoDoc=BANDO_GARA_PORTALE&xslt=XSLT_BANDO_GARA_PORTALE&scadenzaBando=2025-09-18T13:00:00&jk=",
+        "stato": "Aperto",
+        "tipo_utente": "Imprese",
+        "data_chiusura": "18-09-2025",
+        "allegati": [
+            {
+                "name": "Decreto a contrarre",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=DD 221_2024 approvazione atti.pdf*pdf*161499*c176f87d7b154d75a_20250721115034435*SHA256*60E39469F6872AD91C5FF6045A992CCBA301BFAF581AD39CACF8163ABF10DFFF*2025-07-21T13:50:35&FORMAT=I,N"
+            },
+            {
+                "name": "Decreto prenotazione impegno",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=DD 207_2025 rettifica prenotazione impegno.pdf*pdf*292827*rb6f6397c49942b28_20250721115044797*SHA256*F97D7601E939A5A3C4238242C8F786158080D2D17C217F7183DB2AC856230F64*2025-07-21T13:50:46&FORMAT=I,N"
+            },
+            {
+                "name": "Decreto di indizione",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=DD 277_2025 indizione.pdf*pdf*94327*rec371eb42054ce78_20250721115053821*SHA256*D438246D2D22CE4C95977F99C8AABCBF6CF2CC025297F2FDDECB5A807C9576D4*2025-07-21T13:50:54&FORMAT=I,N"
+            },
+            {
+                "name": "Capitolato speciale d’appalto",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=02_CAPITOLATO_SPECIALE_APPALTO_AQ_REV_06.pdf*pdf*696204*rbf12f29fc2340299_20250721115209191*SHA256*C2380C26AE3B9CB1B36B32D17C2F72F052ABB661211036EBFD24632EDC0491EB*2025-07-21T13:52:10&FORMAT=I,N"
+            },
+            {
+                "name": "Schema di Accordo Quadro (AQ)",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=03_SCHEMA_ACCORDO_QUADRO_NOTAR_REV_02.pdf*pdf*160482*ad1354a62b2a44c18_20250721115217411*SHA256*B444F61264E79896682DF0058B58262322000EE30C2B4A5A8D194D8A360F468A*2025-07-21T13:52:18&FORMAT=I,N"
+            },
+            {
+                "name": "Quadro economico",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=04_QUADRO_ECONOMICO_AQ.pdf*pdf*125903*bc5a5828f7cb483fa_20250721115227136*SHA256*DC52090748457FDD9E40D0C45577CC6C0CE5DC602C4B8CF583AEF31FBAB87660*2025-07-21T13:52:28&FORMAT=I,N"
+            },
+            {
+                "name": "Richiesta Offerta per Confronto Competitivo",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=05_RICHIESTA DI OFFERTA PER CONFRONTO COMPETITIVO_REV_02.pdf*pdf*146125*d3aee6e067144fb2b_20250721115235595*SHA256*6A3E172ABEF08D877555BCD051E5F0C7B1CD4C40E7E387DCBE7FEA0CD462EC90*2025-07-21T13:52:36&FORMAT=I,N"
+            },
+            {
+                "name": "Schema di Contratto Attuativo Specifico (CAS)",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=06_CONTRATTO_APPALTO_SPECIFICO_TIPO_AQ_REV_01.pdf*pdf*123330*r1e2843816594ad88_20250721115246186*SHA256*29746F6B21465923D18534CAB6D3922221E91B5F3496763068EE3C6E1EA5E25D*2025-07-21T13:52:47&FORMAT=I,N"
+            },
+            {
+                "name": "DNSH 3 Formulario verifica",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=15_Allegato DNSH3 Formul verif semplif.pdf*pdf*70328*rc1acea9d7c44feb8_20250721115254990*SHA256*D45780EF9D9297E97E3F8073270505B0CE891782E8AB50696D5C7DB2AE2726E1*2025-07-21T13:52:55&FORMAT=I,N"
+            },
+            {
+                "name": "DNSH 4 Relazione approfondimento valutativo",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=16_Allegato DNSH4-Relazione approf valut.pdf*pdf*98902*ea8c8aadb6b943439_20250721115304156*SHA256*5E701924A6111BEA534BFAEA4052F9BCFBF878567DB7EF07DB7CD33EC06D5787*2025-07-21T13:53:05&FORMAT=I,N"
+            },
+            {
+                "name": "Disciplinare di gara",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=Disciplinare di gara_4051_AQ_2025.pdf*pdf*1585301*bce559f31a7e45d08_20250722092730469*SHA256*E8FC8C140187DD76BC375C703DDAFF79653146430444F19D58D1CBF58433D836*2025-07-22T11:27:32&FORMAT=I,N"
+            },
+            {
+                "name": "Modello 1 - Domanda di partecipazione",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=MODELLO 1_ISTANZA DI PARTECIPAZIONE.docx*docx*63469*r94ae509daa14a63a_20250722092741394*SHA256*E916D0D6A061A99180AF5535AB8C6F3F2569746DFFC77DD7A01E1A552D8D25CB*2025-07-22T11:27:43&FORMAT=I,N"
+            },
+            {
+                "name": "Modello 2 - Dichiarazioni integrative",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=MODELLO 2_DICHIARAZIONI INTEGRATIVE.docx*docx*76424*rc994c6c3ecd4ad5a_20250722092749364*SHA256*74236BF5A6420792CCA99C8530C955955D26537C1CFD4386E8456A1E3852C5C3*2025-07-22T11:27:50&FORMAT=I,N"
+            },
+            {
+                "name": "Modello 3 - Requisiti speciali",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=MODELLO 3_REQUISITI SPECIALI.docx*docx*70279*r549ab677f37410fa_20250722092757459*SHA256*BC8AE5679A16762A451AC43CF235941A52A6FA200940C4754C7CB45A0B8C4729*2025-07-22T11:27:58&FORMAT=I,N"
+            },
+            {
+                "name": "Modello 4 - Protocollo di legalità",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=MODELLO 4_PROTOCOLLO DI LEGALITA'.docx*docx*72939*rd9408705b944ef1a_20250722092806143*SHA256*6A2B1E399D7A8EDA80D383C0696CD2662244141ECB7A85D2DFAC0D01AC1A7267*2025-07-22T11:28:07&FORMAT=I,N"
+            },
+            {
+                "name": "Modello 5 - Dichiarazione familiari conviventi",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=MODELLO 5_DICHIARAZIONE FAMILIARI CONVIVENTI.docx*docx*69961*r5bb56601e81460bb_20250722092814159*SHA256*C756F65F05A3E4D2218F5401FBD3C723B82CB2117CAC1BBD97907163D395F7AB*2025-07-22T11:28:15&FORMAT=I,N"
+            },
+            {
+                "name": "Modello 6 - Offerta economica",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=MODELLO 6_OFFERTA ECONOMICA.docx*docx*57920*r38a14b677384b0aa_20250722092822322*SHA256*D0887EB3AD8CDB069D29BD2368FC0E3DFB2A604A0BA7DEB35552C47C34327B1F*2025-07-22T11:28:23&FORMAT=I,N"
+            },
+            {
+                "name": "Attestazione “Assolvimento marca da bollo per gara telematica”",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=ASSOLVIMENTO MARCA DA BOLLO.docx*docx*65668*r881bf4e135f410da_20250722092829871*SHA256*3D3E9B8ED4D329B71DE3D544DDD4DD9FB4F1C015007D69E14BA9E91B7F58C689*2025-07-22T11:28:30&FORMAT=I,N"
+            },
+            {
+                "name": "Informativa e consenso trattamento dati personali",
+                "link": "https://pgt.regione.campania.it/application/CTL_Library/functions/field/DisplayAttach.ASP?OPERATION=DISPLAY&FIELD=Allegato&PATH=../&TECHVALUE=Informativa e consenso trattamento dati personali.docx*docx*24849*ra56ac79cce649ee9_20250722092839429*SHA256*A8A6A957DDAD1614D10D5C360B474E325BB095219B234B6FDCDE661B8E91A21A*2025-07-22T11:28:40&FORMAT=I,N"
+            }
+        ],
+        "scheda_info": {
+            "Codice Bando": "PI007336-25",
+            "Descrizione breve": "Procedura aperta per la conclusione di un Accordo Quadro per l’affidamento di lavori di manutenzione straordinaria, messa in sicurezza ed efficientamento del sistema portuale di interesse regionale, con al massimo cinque operatori economici, per la durata di anni quattro, da aggiudicarsi con il criterio dell’offerta economicamente più vantaggiosa sulla base del miglior rapporto qualità/prezzo, ai sensi degli artt. 59 e 71 del D.lgs. 36/2023.",
+            "Id Appalto ANAC": "a6ee232e-f951-4d3f-81f0-c8ccf76a3e29",
+            "CIG": "B7B939DA55",
+            "Ente appaltante": "Giunta Regionale della Campania - Ufficio Speciale Centrale Acquisti",
+            "Importo Appalto": "18.810.025,60 (Iva Esclusa)",
+            "Criterio Aggiudicazione": "Offerta economicamente più vantaggiosa",
+            "Tipo Appalto": "Lavori pubblici",
+            "Termine Richiesta Quesiti": "08/09/2025 ore 23:59:00",
+            "Presentare le offerte entro il": "18/09/2025 ore 13:00:00",
+            "Data I Seduta": "23/09/2025 ore 11:00:00",
+            "Enti Proponenti": "Giunta Regionale della Campania - Ufficio Speciale Centrale Acquisti"
+        },
+        "regione": "Campania"
+    }
+]
