@@ -18,7 +18,7 @@ def convert_mongo_types(obj):
     return obj
 
 # Connessione MongoDB
-client = MongoClient("mongodb+srv://galbisini:ZnVz5IA9fm3Iic4n@cluster0.nmxvyvu.mongodb.net/Bandi?retryWrites=true&w=majority")
+client = MongoClient("mongo_url")
 db = client["Bandi"]
 collection = db["Lombardia"]
 
