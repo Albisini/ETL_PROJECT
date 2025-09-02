@@ -182,3 +182,14 @@ while (batch_num - 1) * blocchi_da < total_pages:
 
     estrai_blocco(wd, start_page, end_page, batch_num)
     batch_num += 1
+
+#Numero totale di bandi
+bandi_sardegna_info.shape[0]
+#Salviamo in un csv
+bandi_sardegna_info.to_csv('ds_bandi_sardegna.csv',encoding='utf-8')
+
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+import re
+
+
