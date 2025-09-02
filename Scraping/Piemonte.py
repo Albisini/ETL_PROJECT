@@ -204,6 +204,227 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import re
 
+bandi_details = []  
+diz_selectors_details = {
+    "tipologia_di_contenuto" : "dd.field__item"
+}
+
+for _ , bandi in ds_bandi_info.iterrows():
+    link = bandi["url"]  # Get the URL of the room listing
+    #print(link)
+    # Qui parte Selenium
+    wd.set_window_size(1920, 1080)  # Set the browser window size
+    wd.get(link)  # Navigate to the room listing URL
+    time.sleep(2)  # Attendi il caricamento
+
+    # Titolo
+    titolo_pagina = wd.title.split("|")[0].strip()
+    print(titolo_pagina)
+
+    scheda_info = []
+
+    # Tipologia_contenuto
+    try:
+      tipologia_elements = wd.find_elements(By.CSS_SELECTOR, "div.content-type dd.field__item")
+      tipologie_testo = [el.text.strip() for el in tipologia_elements]
+      tipologie_testo = "; ".join(tipologie_testo)
+      print(tipologie_testo)
+      scheda_info.append({'tipologia_contenuto' : tipologie_testo})
+    except:
+      tipologie_testo = ""
+      print("Tipologia contenuto non trovato")
+
+    # Oggetto
+    try:
+      oggetto = wd.find_element(By.CSS_SELECTOR, "dl.field--name-field-oggetto-bando dd.field__item").text.strip()
+      print("Oggetto del bando:", oggetto)
+      scheda_info.append({'oggetto_del_bando' : oggetto})
+    except:
+      oggetto = ""
+      print("Oggetto del bando non trovato")
+
+
+    # Data inizio
+    try:
+      data_inizio_elem = wd.find_element(By.CSS_SELECTOR, ".SecondoSottogruppoInfo .field--name-field-data-inizio time")
+      data_inizio = data_inizio_elem.get_attribute("datetime")[:10]
+      print("Data inizio del bando:", data_inizio)
+    except:
+      data_inizio = ""
+      print("Data inizio del bando non trovata")
+
+    # Scadenza
+    try:
+      data_scadenza_elem = wd.find_element(By.CSS_SELECTOR, ".SecondoSottogruppoInfo .field--name-field-data-scadenza time")
+      data_scadenza = data_scadenza_elem.get_attribute("datetime")[:10]
+      print("Data scandenza del bando:", data_scadenza)
+    except:
+      data_scadenza = ""
+      print("Data scadenza del bando non trovata")
+
+    # Temi
+    try:
+      temi_elements = wd.find_elements(By.CSS_SELECTOR, ".PrimoSottogruppoInfo .field--name-field-temi dd.field__item")
+      temi = [el.text for el in temi_elements]
+      print(temi)
+      tema = ",".join(temi)
+      print("Tema del bando:", tema)
+    except:
+      tema = ""
+      print("Tema del bando non trovato")
+
+    # Rivolto a
+    try:
+      rivolto_a_elements = wd.find_elements(By.CSS_SELECTOR, ".PrimoSottogruppoInfo .field--name-field-target dd.field__item ")
+      rivolto_a = [el.text for el in rivolto_a_elements]
+      tipo_utente = ",".join(rivolto_a)
+      print("Tipo utente:", tipo_utente)
+    except:
+      tipo_utente = ""
+      print("Tipo utente non trovato")
+
+    # Risorse
+    try:
+      risorse_elements = wd.find_elements(By.CSS_SELECTOR, ".PrimoSottogruppoInfo .field--name-field-risorse dd.field__item")
+      risorse_list = [el.text for el in risorse_elements]
+      risorse = ",".join(risorse_list)
+      print("Risorse:", risorse)
+      scheda_info.append({'risorse' : risorse})
+
+    except:
+      risorse = ""
+      print("Risorse non trovate")
+
+    # Procedura
+    try:
+      procedura_descrizione = wd.find_element(By.CSS_SELECTOR, "div.box-procedura div.field--name-body")
+      testo_descrizione = procedura_descrizione.text.strip()
+      testo_descrizione = " ".join(testo_descrizione.split())
+      print("Procedura:", testo_descrizione)
+      scheda_info.append({'procedura' : testo_descrizione})
+    except:
+      testo_descrizione = ""
+      print("Procedura non trovata")
+
+    # Chiarimenti
+    # Qui ho un primo pdf eventualmente da usare con un chatbot che me li riassuma
+    try:
+      pdf_element = wd.find_element(By.CSS_SELECTOR, ".box-chiarimenti a[href$='.pdf']")
+      pdf_url = pdf_element.get_attribute("href")
+      print("PDF chiarimenti:", pdf_url)
+      scheda_info.append({'chiarimenti' : pdf_url})
+    except:
+      pdf_url = ""
+      print("PDF chiarimenti non trovato:")
+
+    # Chi può partecipare ?
+    # --- Chi può partecipare ---
+    try:
+      summary_chi = wd.find_element(By.XPATH, "//summary[contains(text(), 'Chi può partecipare')]")
+      wd.execute_script("arguments[0].click();", summary_chi)
+      time.sleep(0.3)  # attesa per espansione
+      chi_elem = wd.find_element(By.CSS_SELECTOR, ".field--name-field-chi-puo-partecipare")
+      chi_puo_text = chi_elem.text.strip()
+      print("Chi può partecipare:", chi_puo_text)
+      scheda_info.append({'partecipanti' : chi_puo_text})
+    except:
+      chi_puo_text = ""
+      print("Chi può partecipare non trovato")
+
+    # Dotazione finanziaria con estrazione importo
+    try:
+      summary_dotazione = wd.find_element(By.XPATH, "//summary[contains(text(), 'Dotazione finanziaria')]")
+      wd.execute_script("arguments[0].click();", summary_dotazione)
+      time.sleep(0.3)
+      dotazione_elem = wd.find_element(By.CSS_SELECTOR, ".field--name-field-importo")
+      dotazione_text = dotazione_elem.text.strip()
+      # Estraggo solo la parte con il simbolo € e numero
+      match = re.search(r"(€\s?[\d\.\,]+)", dotazione_text)
+      if match:
+          dotazione_importo = match.group(1)
+      else:
+          dotazione_importo = dotazione_text  # fallback
+      print("Dotazione finanziaria:", dotazione_importo)
+      scheda_info.append({'dotazione_finanziaria' : dotazione_importo})
+    except:
+      dotazione_importo = ""
+      print("Dotazione finanziari non trovata")
+
+    # Come presentare la domanda
+    try:
+      summary_domanda = wd.find_element(By.XPATH, "//summary[contains(text(),'Come presentare domanda')]")
+      wd.execute_script("arguments[0].click();", summary_domanda)
+      time.sleep(0.3)
+
+      note_domanda_elem = wd.find_element(
+        By.XPATH,
+        "//summary[contains(text(),'Come presentare domanda')]/following-sibling::div//div[contains(@class,'field--name-field-note-presentazione-domanda')]"
+      )
+      note_domanda_text = note_domanda_elem.text.strip()
+      print("Come presentare domanda:", note_domanda_text)
+      scheda_info.append({'come_presentare_domanda' : note_domanda_text})
+    except:
+      note_domanda_text = ""
+      print("Come presentare la domanda non trovata")
+
+    # Allegati
+    # Apri il dettaglio "Allegato testo procedura" per assicurarti che il contenuto sia visibile
+    try:
+      summary_allegati = wd.find_element(By.XPATH, "//summary[contains(text(),'Allegato testo procedura')]")
+      wd.execute_script("arguments[0].click();", summary_allegati)
+      time.sleep(0.3)
+    except:
+      print("Errore nell'apertura della sezione Allegato testo procedura:")
+
+    # Ora seleziona tutti gli allegati all'interno del div corrispondente
+    allegati = []
+    try:
+      # Trova il contenitore degli allegati dentro details-wrapper
+      container = wd.find_element(By.CSS_SELECTOR, "details.js-form-wrapper div.field--name-field-testo-procedura")
+      # Trova tutti i div.field__item (ogni allegato)
+      allegati_items = container.find_elements(By.CSS_SELECTOR, "div.field__item")
+
+      for item in allegati_items:
+        try:
+            a_tag = item.find_element(By.CSS_SELECTOR, "dl.field__items dt a")
+            href = a_tag.get_attribute("href")
+            nome = a_tag.text.strip()
+            titolo = a_tag.get_attribute("title")
+            allegati.append({
+                "nome": nome,
+                "titolo": titolo,
+                "url": href
+            })
+        except:
+            print(f"Errore lettura allegato in un item")
+            continue
+    except:
+      print("Errore nell'estrazione degli allegati:")
+
+    print("Allegati trovati:", allegati)
+
+# Alla fine del tuo dict di dettaglio bandi, aggiungi:
+
+    bandi_details.append({'codice' : '',
+                         'titolo': titolo_pagina,
+                         'categoria' : tema,
+                         'url': link,
+                         'stato' : 'APERTO',
+                         'tipo_utente' : tipo_utente,
+                         'data_chiusura' : data_scadenza,
+                         'allegati': allegati,
+                          'scheda_info' : scheda_info,
+                          'regione' : 'Piemonte'
+                          })
+    print(bandi_details)
+    import json
+
+    # Salva la lista bandi_details in un file JSON
+    with open("bandi_details.json", "w", encoding="utf-8") as f:
+      json.dump(bandi_details, f, ensure_ascii=False, indent=4)
+
+    print("File JSON salvato come 'bandi_details.json'")
+
 
 
 
